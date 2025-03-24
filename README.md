@@ -1,2 +1,1 @@
-# Web_Dev_MIDTERM
-my webdev midterm project
+# Web_Dev_1
